@@ -1,0 +1,18 @@
+.navigational, a{
+    background-color:#22272b;
+    padding-right: 160px;
+    display: inline-flexbox;
+
+    list-style: none;    
+    font-size: 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    color:white ;
+    text-align: center;
+    justify-content:space-between;
+}
+
+.active{
+    color:orange;
+}
+
